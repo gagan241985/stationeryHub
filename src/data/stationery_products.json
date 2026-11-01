@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Ballpoint Pen",
+    "price": 10,
+    "category": "Writing",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 2,
+    "name": "Gel Pen",
+    "price": 20,
+    "category": "Writing",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 3,
+    "name": "Pencil Set",
+    "price": 30,
+    "category": "Writing",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Pencil",
+    "price": 45,
+    "category": "Writing",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 5,
+    "name": "Eraser Pack",
+    "price": 15,
+    "category": "Writing",
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 6,
+    "name": "Pencil Sharpener",
+    "price": 12,
+    "category": "Writing",
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 7,
+    "name": "A4 Notebook",
+    "price": 65,
+    "category": "Notebooks",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=600&q=85"
+  },
+  {
+    "id": 8,
+    "name": "Pocket Notebook",
+    "price": 35,
+    "category": "Notebooks",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=600&q=85"
+  },
+  {
+    "id": 9,
+    "name": "Spiral Notebook",
+    "price": 80,
+    "category": "Notebooks",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=600&q=85"
+  },
+  {
+    "id": 10,
+    "name": "Graph Notebook",
+    "price": 50,
+    "category": "Notebooks",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=600&q=85"
+  },
+  {
+    "id": 11,
+    "name": "Highlighter Set",
+    "price": 90,
+    "category": "Writing",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 12,
+    "name": "Permanent Marker",
+    "price": 25,
+    "category": "Writing",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 13,
+    "name": "Whiteboard Marker Set",
+    "price": 75,
+    "category": "Writing",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 14,
+    "name": "Crayon Box",
+    "price": 55,
+    "category": "Art Supplies",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=85"
+  },
+  {
+    "id": 15,
+    "name": "Colour Pencil Set",
+    "price": 110,
+    "category": "Art Supplies",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=85"
+  },
+  {
+    "id": 16,
+    "name": "Watercolour Set",
+    "price": 140,
+    "category": "Art Supplies",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=85"
+  },
+  {
+    "id": 17,
+    "name": "Paint Brushes",
+    "price": 60,
+    "category": "Art Supplies",
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=85"
+  },
+  {
+    "id": 18,
+    "name": "Drawing Sheet Pack",
+    "price": 70,
+    "category": "Paper",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 19,
+    "name": "Sticky Notes",
+    "price": 40,
+    "category": "Office Supplies",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&q=85"
+  },
+  {
+    "id": 20,
+    "name": "Paper Clips Box",
+    "price": 18,
+    "category": "Office Supplies",
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&q=85"
+  },
+  {
+    "id": 21,
+    "name": "Stapler",
+    "price": 85,
+    "category": "Office Supplies",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&q=85"
+  },
+  {
+    "id": 22,
+    "name": "Staple Pins Pack",
+    "price": 20,
+    "category": "Office Supplies",
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&q=85"
+  },
+  {
+    "id": 23,
+    "name": "Scissors",
+    "price": 50,
+    "category": "Office Supplies",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&q=85"
+  },
+  {
+    "id": 24,
+    "name": "Glue Stick",
+    "price": 25,
+    "category": "Adhesives",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=85"
+  },
+  {
+    "id": 25,
+    "name": "Clear Tape Dispenser",
+    "price": 95,
+    "category": "Adhesives",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=85"
+  },
+  {
+    "id": 26,
+    "name": "Ruler 30 cm",
+    "price": 20,
+    "category": "Geometry",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=85"
+  },
+  {
+    "id": 27,
+    "name": "Geometry Box",
+    "price": 120,
+    "category": "Geometry",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=85"
+  },
+  {
+    "id": 28,
+    "name": "School Backpack",
+    "price": 650,
+    "category": "Bags",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=85"
+  },
+  {
+    "id": 29,
+    "name": "Document Folder",
+    "price": 45,
+    "category": "Filing",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=85"
+  },
+  {
+    "id": 30,
+    "name": "Desk Organizer",
+    "price": 180,
+    "category": "Office Supplies",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&q=85"
+  }
+]
